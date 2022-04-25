@@ -221,11 +221,13 @@ MonoBehaviour:
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: 5fb987c55ef5940cba55c6ab25122895, type: 3}
     instantiationMode: 0
-  - dependency: {fileID: 2800000, guid: 6416d353188bc47289648b140dbb66d5, type: 3}
-    instantiationMode: 0
+  - dependency: {fileID: 8574412962073106934, guid: 4e05bb379f2084cb48a6f7abc0679034, type: 2}
+    instantiationMode: 1
   - dependency: {fileID: 2800000, guid: 504eeb059e2ab46699111f6a370e6228, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2100000, guid: 6f9712487572149699cf17ddf8610e6e, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 6416d353188bc47289648b140dbb66d5, type: 3}
     instantiationMode: 0
   - dependency: {fileID: 2800000, guid: 3d94ae574d920c5449fe4e032d8c414d, type: 3}
     instantiationMode: 0
